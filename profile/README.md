@@ -46,8 +46,17 @@
 ## 📱 스크린샷 (Screenshots)
 
 <p align="center">
-  <img src="figures/fig1.png" width="140" alt="로딩 화면">
-  <img src="figures/fig2.png" width="140" alt="카테고리 선택">
-  <img src="figures/fig3.png" width="140" alt="뉴스 피드">
-  <img src="figures/fig4.png" width="140" alt="마이페이지">
+  <img src="images/splash.png" width="140" alt="splash 화면">
+  <img src="images/start.png" width="140" alt="시작 화면">
+  <img src="images/category.png" width="140" alt="카테고리 선택">
+  <img src="images/shorts1.png" width="140" alt="쇼츠">
+  <img src="images/more.png" width="140" alt="더보기">
+</p
+
+<p align="center">
+  <img src="images/quiz.png" width="140" alt="퀴즈">
+  <img src="images/my.png" width="140" alt="마이페이지">
+  <img src="images/reward.png" width="140" alt="보상">
+  <img src="images/badge.png" width="140" alt="배지">
+  <img src="images/shop.png" width="140" alt="상점">
 </p
